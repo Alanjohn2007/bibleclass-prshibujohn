@@ -2716,6 +2716,9 @@ ol {
 		font-size: 79px;
 		line-height: 0.8;
 	}
+	.header__logo h1 {
+		font-size: small;
+	}
 	.hero__text h1 {
 		font-size: 70px;
 	}
